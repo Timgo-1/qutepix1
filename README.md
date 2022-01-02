@@ -1,6 +1,6 @@
 #   QutePix Social Media Application
-![QutePix]()
-
+![QutePix](https://drive.google.com/file/d/1P6yihP57DTbGg5hdEYmyN6rckTNxuhty/view?usp=sharing)
+view via: https://www.qutepix.gq
 ## Introduction
 This is a code repository for the QutePix Social Media Application.
 
