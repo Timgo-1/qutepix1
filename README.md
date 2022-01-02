@@ -1,4 +1,6 @@
 #   QutePix Social Media Application
+![QutePix]()
+
 ## Introduction
 View QutePix via: https://www.qutepix.gq
 This is a code repository for the QutePix Social Media Application.
